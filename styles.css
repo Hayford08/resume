@@ -1,0 +1,23 @@
+body{
+  background-color: #fff;
+}
+
+hr{
+  border: none;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e0ebe8;
+  width: 10%;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: Gill Sans Extrabold, sans-serif;
+}
+
+h3{
+  color: #197163;
+  font-style: oblique;
+  font-family: "Brush Script Std", cursive;
+
+}
